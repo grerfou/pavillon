@@ -1,0 +1,43 @@
+
+
+
+Data View
+
+
+This production is the beginning of a longer term research into our relationship with technology and how it modifies our perceptions, behaviour and ideas.                                                   
+
+In this case I am starting from our point of view of nature to bring this production/research with the aim of materialising the translation into data that the computer creates about concepts that may seem very simple, banal or normal to us humans.
+
+
+
+Cette production est le début d'une recherche à plus long terme sur notre relation avec la technologie et la manière dont elle modifie nos perceptions, notre comportement et nos idées
+Dans ce cas, je pars de notre point de vue sur la nature pour amener cette production/recherche dans le but de matérialiser la traduction en données que l'ordinateur crée à propos de concepts qui peuvent sembler très simples, banal ou normal pour nous, les humains.
+je decide de crée un processus de traitement de donnée qui en déclinera des formes différenrtes a partir de données similaire, ces données proviendront d'une a-machine en temps réel ce qui nous donne un jeu de données en constante evolution et un relustat de declination de forme qu "vie". Dans cette installation c'est l'o-machine que fait que l'ont a de vraie resultat en constante evolution, l'a-mache n'est la que pour transformer cette evolution constante en "données" comprehenssible pour les transformer en des chose plus tangible.
+
+
+
+
+
+
+This production is the beginning of a longer term research into our relationship with technology and how it changes our perceptions, behaviour and ideas.
+In this case, I'm starting from our point of view of nature and taking this production/research to materialise the translation into data that the computer creates about concepts that may seem very simple, banal or normal to us humans.
+I decide to create a data processing process that will decline different forms from similar data, this data will come from an a-machine in real time which gives us a set of data in constant evolution and a relustat of declination of form that "life". In this installation, it is the o-machine that gives us real results in constant evolution, the a-mache is only there to transform this constant evolution into comprehensible "data" to transform them into more tangible things.
+
+
+Position: (-72.27, 266.21, -187.21)
+Cible: (268.50, -312.17, 274.51)
+Haut: (0.00, 1.00, 0.00)
+
+
+camera.position = (Vector3){ -30.76f, 400.92f, -5.51f };
+Color backgroundColor = { 63, 83, 215, 255 };
+
+
+scale factor 1.4
+
+Camera camera = { 0 };
+camera.position = (Vector3){ -13.66f, 142.12f, -296.15f };
+camera.target = (Vector3){ 200.33f, -200.92f, 314.54f };
+camera.up = (Vector3){ 2.0f, 2.0f, 2.0f };
+camera.fovy = 45.0f;
+camera.projection = CAMERA_PERSPECTIVE;

@@ -1,0 +1,15 @@
+
+
+
+Data View
+
+
+This production is the beginning of a longer term research into our relationship with technology and how it modifies our perceptions, behaviour and ideas.                                                   
+
+In this case I am starting from our point of view of nature to bring this production/research with the aim of materialising the translation into data that the computer creates about concepts that may seem very simple, banal or normal to us humans.
+
+
+
+
+camera.position = (Vector3){ -30.76f, 400.92f, -5.51f };
+Color backgroundColor = { 63, 83, 215, 255 };
