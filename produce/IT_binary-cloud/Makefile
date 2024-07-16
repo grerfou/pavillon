@@ -122,3 +122,10 @@ clean:
 
 .PHONY: all clean
 
+
+
+
+
+
+
+gcc -o ImageToBinary ./src/main.c -lraylib -lm -lpthread -ldl -lX11
